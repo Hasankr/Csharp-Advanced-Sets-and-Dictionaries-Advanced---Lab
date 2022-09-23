@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{F028DA11-E00A-4204-9610-4ACB8A357D37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{95287A07-88A6-4C27-9BD9-25FA9E265F31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{95287A07-88A6-4C27-9BD9-25FA9E265F31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{E954C0F7-77C8-4D7F-A8E6-2927C958D7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{E954C0F7-77C8-4D7F-A8E6-2927C958D7E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{FD899E3C-24AE-4635-BF61-466AD898EDC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{FD899E3C-24AE-4635-BF61-466AD898EDC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{166906A5-6273-431B-84D7-5DDF396ED754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{166906A5-6273-431B-84D7-5DDF396ED754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni Party", "08. SoftUni Party\08. SoftUni Party.csproj", "{19FA84E2-7F20-4586-8DCD-EADCF73401B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{166906A5-6273-431B-84D7-5DDF396ED754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166906A5-6273-431B-84D7-5DDF396ED754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166906A5-6273-431B-84D7-5DDF396ED754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FA84E2-7F20-4586-8DCD-EADCF73401B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FA84E2-7F20-4586-8DCD-EADCF73401B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FA84E2-7F20-4586-8DCD-EADCF73401B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FA84E2-7F20-4586-8DCD-EADCF73401B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
